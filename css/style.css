@@ -18,6 +18,14 @@
     .card{
         width: 33vh !important;
     }
+
+    .card-body .titulo {
+        font-size: 1.4rem !important;
+    }
+    
+    .card-body .descripcion {
+        font-size: 1rem !important;
+    }
 }
 
 html,
